@@ -8,5 +8,3 @@ Estou codando nas seguintes linguagens hoje:
  * Java
  * Apex
  * Phyton
-
- * 
